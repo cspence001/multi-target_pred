@@ -10,4 +10,4 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/cluster_linear_models.ipynb">tier segmented linear models</a>
 
 
-<h5>jupyter notebook, python, pandas, numpy, matplotlib, sk.learn </h5>
+<h5>jupyter notebook running python, pandas, numpy, matplotlib, sk.learn </h5>
