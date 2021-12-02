@@ -9,7 +9,7 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/cluster_linear_models.ipynb">tier segmented linear models</a>
 
-<a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/weight_variable_encoding.ipynb">weight encoding for categorical feature evaluation</a>
+<a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/weight_variable_encoding.ipynb">weighted categorical feature evaluation</a>
 
 
 <h5>jupyter notebooks running python, pandas, numpy, matplotlib, sk.learn </h5>
