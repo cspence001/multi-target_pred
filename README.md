@@ -23,6 +23,10 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 </ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/weight_variable_encoding.ipynb">weight encoded categorical feature evaluation, pairwise plots</a>
+<ul>
+  <li>Categorical weight-encoded Feature Evaluation using SHAP, pairwise plots </li>
+</ul>
+
 
 
 <h5>jupyter notebooks running python, pandas, numpy, matplotlib, sk.learn </h5>
