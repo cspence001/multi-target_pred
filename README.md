@@ -13,6 +13,9 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 </ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/base_linear_models.ipynb">base linear models</a>
+<ul>
+  <li>Linear Regression Analysis of Size, Reviews, Installs on Rating for each App Category</li>
+</ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/cluster_linear_models.ipynb">tier segmented linear models</a>
 
