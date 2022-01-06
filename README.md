@@ -4,7 +4,7 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/multi_pred.ipynb">main analysis, model prediction</a>
 <ul>
 <li>MAE, MSE, RMSE, Accuracy, and Prediction of RFR, GBR, DTR, ABR base models </li><br>
-<li>SHAP Evaluation</li><br>
+<li>SHAP Evaluation</li>
 </ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/tier_segmentation_correlation.ipynb">feature correlation</a>
