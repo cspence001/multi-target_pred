@@ -18,6 +18,9 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore develope
 </ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/cluster_linear_models.ipynb">tier segmented linear models</a>
+<ul>
+  <li>Linear Regression Analysis of Tier Segmented Size, Reviews, Installs, Type, Content Rating on Rating </li>
+</ul>
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/weight_variable_encoding.ipynb">weight encoded categorical feature evaluation, pairwise plots</a>
 
