@@ -4,7 +4,7 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore, plot mo
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/multi_pred.ipynb">main analysis, model prediction</a>
 <ul>
 <li>Scatterplot Distributions of Rating v Reviews, Size, Installs by Type</li>
-<li>Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Accuracy, and Prediction of Random Forest Regressor (RFR), Gradient Boost Regressor (GBR), Decision Tree Regressor (DTR), AdaBoost Regressor (ABR) base models </li>
+<li>Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Accuracy, and Prediction Analysis of App Rating using Random Forest Regressor (RFR), Gradient Boost Regressor (GBR), Decision Tree Regressor (DTR), AdaBoost Regressor (ABR) base models </li>
 <li>Hyperparameter Tuning of RFR, GBR models using GridSearchCV, Feature Importance evaluation of best grid using SHAP Tree Explainer</li>
 <li>Stacked Generalization ensemble (RFR, GBR, XGBR, RidgeCV estimation) comparison to RFR, GBR base model accuracy </li>
 </ul>
