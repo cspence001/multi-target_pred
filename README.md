@@ -3,7 +3,7 @@ Utilizing a dataset of 10,000 mobile apps hosted in the GooglePlayStore, plot mo
 
 <a href="https://github.com/cspence001/multiclass_pred/blob/main/app_pred/multi_pred.ipynb">main analysis, model prediction</a>
 <ul>
-<li>MAE, MSE, RMSE, Accuracy, and Prediction of RFR, GBR, DTR, ABR base models </li><br>
+<li>Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Accuracy, and Prediction of Random Forest Regressor (RFR), Gradient Boost Regressor (GBR), Decision Tree Regressor (DTR), AdaBoost Regressor (ABR) base models </li><br>
 <li>SHAP Evaluation of RFR, GBR models tuned using GridSearchCV</li>
 </ul>
 
